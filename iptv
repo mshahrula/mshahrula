@@ -271,36 +271,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 #EXTINF:-1 tvg-id="WWENetwork" group-title="Sports" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png",WWE Network
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=168bd815468639fe4528b4bf0141f310:775a654c0610811ad022329a68884de1
-#EXTINF:-1 tvg-id="LoveNature" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png" group-title="Documentary", Love Nature
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5096/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1
-#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-logo="https://www.dropbox.com/s/q0h0c9qpm4qemgu/Discovery-White.png?dl=1" group-title="Documentary",Discovery Channel
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2510/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
-#EXTINF:-1 tvg-id="DiscoveryAsia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png" group-title="Documentary"",Discovery Asia
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/501/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5199f1513a0286e038dae8f7d820010:4d4d4d9dc41be43f528a4940cf66f14c
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png" group-title="Documentary",Animal Planet
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2710/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d13c814df4a0c2ce488b2eda052d710:2dc2a7617bde2ab00136ee689c56d789
-#EXTINF:-1 tvg-id="FoodNetwork" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" group-title="Documentary",Food Network
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2300/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
-#EXTINF:-1 tvg-id="AFN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png" group-title="Documentary",Asian Food Network
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/500/default.mpd
-
 #EXTINF:0 tvg-name="THR GEGAR" tvg-ID="GEGAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" group-title="Radio",GEGAR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oP7KOBC5InWSvYk7+58fiQ", "kid":"cLap0cX10nWszwqMUdv3EA" } ], "type":"temporary" }
