@@ -24,10 +24,8 @@ https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 #EXTINF:-1 tvg-id="TV9" tvg-logo="https://www.dropbox.com/s/zs3w1383tzrtpvi/tv9.png?dl=1" group-title="Malay Variety",TV9
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ahNrZdLUVpnLHphQbfob7g", "kid":"+E++gm0VdV75HryrZ8V9EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AwesomeTV" tvg-logo="https://www.dropbox.com/s/pyyqx9g3rrl6jbx/awesometv.png?dl=1" group-title="Malay Variety",Awesome TV
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
+https://222861.global.ssl.fastly.net/6698cc14fa04165068a80345/live_e5f0c8504d8b11efbacf2feeebc6c76f/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=204b138b4cd494236687a016cf20a5a1:5f06d6e71333355eb4b891b4d5f50975
