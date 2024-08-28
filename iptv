@@ -89,6 +89,9 @@ https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.m
 #EXTINF:-1 tvg-id="HITSNow" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HITSNOW.png" group-logo="" group-title="English Variety",Hits Now
 https://linear05-playback.sooka.my/CH3/masterCH3.mpd
 
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://www.dropbox.com/s/8yvfag69yk5gx4j/hbo-logo.png?dl=1" group-title="Movies",Sony PIX
+https://tvxray-cdn2.eu-central-amazonaws.com:443/live/freebasic/m%40laysia887/183.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://www.dropbox.com/s/8yvfag69yk5gx4j/hbo-logo.png?dl=1" group-title="Movies",HBO
