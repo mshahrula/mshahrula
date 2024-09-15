@@ -131,7 +131,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPrem
 #https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="10000000023150000" tvg-name="SONY PIX HD" tvg-logo="https://www.dropbox.com/s/p9z44x2z3iu1hk7/sonypix22.png?dl=1" group-title="Movies",Sony Pix
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+https://raw.githubusercontent.com/aufannada/streaming/main/sonypix.m3u8
 
 #EXTINF:-1 tvg-id="220644" tvg-logo="https://www.dropbox.com/s/09nrq0nxbfgbj7r/star-mvshd.png?dl=1" group-title="Movies",Star Movies
 http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282639&extension=ts
@@ -141,14 +141,10 @@ http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282639&extension=t
 http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=155729&extension=ts
 
 #EXTINF:-1 tvg-id="220909" tvg-logo="https://www.dropbox.com/s/3nqlwyri42nxw5y/%26flix_HD.png?dl=1" group-title="Movies",&Flix
-https://raw.githubusercontent.com/aufannada/streaming/main/%26flix.m3u8
-#https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
-#https://stream.mammothtv.my.id/film/and-flix.m3u8
+https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/flx.m3u8
 
 #EXTINF:-1 tvg-id="220776" tvg-logo="https://www.dropbox.com/s/zp31k4sknc0w422/%26prive_HD.png?dl=1" group-title="Movies",&Prive
-https://raw.githubusercontent.com/aufannada/streaming/main/%26prive.m3u8
-#https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
-#https://stream.mammothtv.my.id/film/and-prive.m3u8
+https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/prv.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
