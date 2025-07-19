@@ -145,21 +145,17 @@ https://dxazj2uf8uiwf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="220776" tvg-logo="https://www.dropbox.com/s/zp31k4sknc0w422/%26prive_HD.png?dl=1" group-title="Movies",&Prive
 #https://raw.githubusercontent.com/aufannada/streaming/main/%26prive.m3u8
 
-#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" group-title="Sports" tvg-logo="https://www.dropbox.com/s/p4hxm6pqffwimxt/spotv.png?dl=1",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5058
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" group-title="Sports" tvg-logo="https://www.dropbox.com/s/p4hxm6pqffwimxt/spotv.png?dl=1",SPOTV
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 
-#EXTINF:-1 tvg-id="SPOTV2" group-title="Sports" tvg-logo="https://www.dropbox.com/s/6z22vty3ghy0e9l/spotv2.png?dl=1",SPOTV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="SPOTV2" group-title="Sports" tvg-logo="https://www.dropbox.com/s/6z22vty3ghy0e9l/spotv2.png?dl=1",SPOTV2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
-
-#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://www.dropbox.com/scl/fi/ezz8dbn0rm9g3sqjmi2ft/tntsprt2.png?rlkey=25dannranpgzk46hv67qewht7&st=dvl4wp83&dl=1"  group-title="Sports",TNT Sport 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 #EXTINF:-1 tvg-id="beINSports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="Sports",beIN Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
